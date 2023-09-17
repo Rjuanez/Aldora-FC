@@ -1,0 +1,3 @@
+Flight Controller
+
+Design, develop, and test a flight controller capable of stabilization and GPS positioning.
